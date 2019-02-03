@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#000 </color>
+    <color name="colorWhite">#e3e3e3</color>
+    <color name="chatbubleme">#0d8dcc</color>
+
+    <color name="grey_lite">#fafafa</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="link_blue">#005ce6</color>
+</resources>

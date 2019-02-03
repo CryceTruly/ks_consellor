@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "801553885529",
+    "firebase_url": "https://a4app-66f39.firebaseio.com",
+    "project_id": "a4app-66f39",
+    "storage_bucket": "a4app-66f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801553885529:android:6ef03b5e73261d0f",
+        "android_client_info": {
+          "package_name": "com.crycetruly.a4app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801553885529-iioapvia624uamfn53rd7g2tihprb4l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crycetruly.a4app",
+            "certificate_hash": "fa32dca7754f7fe37011f1a11866e6298725bdc8"
+          }
+        },
+        {
+          "client_id": "801553885529-n1lihb7ntf1u77lolg546c4v4up64idi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crycetruly.a4app",
+            "certificate_hash": "3d8569b087834121d607ff8f645b87ec0d922074"
+          }
+        },
+        {
+          "client_id": "801553885529-hi12s2i4ka9nhgj6nhgimn6ukgfi60oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crycetruly.a4app",
+            "certificate_hash": "e7607d846d5a9c237c69e35abc032fa4dafbe3ae"
+          }
+        },
+        {
+          "client_id": "801553885529-68sm6dj3em93it5fd70aujvrg25su5qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHN5Q4lvuEgz8KgsiZWkD0yvvHTholrk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801553885529-68sm6dj3em93it5fd70aujvrg25su5qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801553885529:android:f75c245f95d6f1ba",
+        "android_client_info": {
+          "package_name": "com.crycetruly.keepsafeconsellor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801553885529-5upqadtrhs42ua063mcp2g2o4bq754ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crycetruly.keepsafeconsellor",
+            "certificate_hash": "fa32dca7754f7fe37011f1a11866e6298725bdc8"
+          }
+        },
+        {
+          "client_id": "801553885529-68sm6dj3em93it5fd70aujvrg25su5qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHN5Q4lvuEgz8KgsiZWkD0yvvHTholrk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801553885529-68sm6dj3em93it5fd70aujvrg25su5qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
